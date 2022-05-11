@@ -1,5 +1,6 @@
 package com.devsuperior.dsmovie.config;
 
+<<<<<<< HEAD
 import java.util.Arrays;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -41,3 +42,8 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 		return source;
 	}
 }
+=======
+public class SecurityConfig {
+
+}
+>>>>>>> main
