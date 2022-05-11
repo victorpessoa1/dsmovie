@@ -15,7 +15,6 @@ function Pagination() {
                 </button>
             </div>
         </div>
-
     )
 
 }
